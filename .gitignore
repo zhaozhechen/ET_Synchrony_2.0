@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Regenerable site-level products are large (currently about 2.6 GB).
+# Keep summary tables, figures, and the HTML report available for versioning.
+04_Results/Processed_Data/

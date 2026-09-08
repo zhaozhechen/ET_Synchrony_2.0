@@ -1,0 +1,31 @@
+"scale","variable_set","n_sites_total","n_sites_with_overlap","median_simultaneous","q25_simultaneous","q75_simultaneous","median_longest_run","n_sites_ge_30","n_sites_ge_100","n_sites_ge_300","n_sites_ge_1000"
+"hourly","ET + VPD",163,163,33699,14626,60553.5,3249,163,163,163,163
+"6_hourly","ET + VPD",163,163,5524,2384.5,9812,757,163,163,160,142
+"daily","ET + VPD",163,163,1396,605.5,2527,299,163,151,137,101
+"weekly","ET + VPD",163,150,199,84.5,361.5,67,144,115,45,6
+"monthly","ET + VPD",163,124,44,18.5,84,20,103,36,1,0
+"hourly","ET + air temperature",163,163,33987,14626,62353.5,3259,163,163,163,163
+"6_hourly","ET + air temperature",163,163,5580,2384.5,10302,777,163,163,160,142
+"daily","ET + air temperature",163,163,1416,605.5,2614.5,308,163,151,137,101
+"weekly","ET + air temperature",163,150,200,84.5,376.5,68,144,116,48,6
+"monthly","ET + air temperature",163,124,46,18.5,86.5,20,103,38,1,0
+"hourly","ET + all core drivers",163,128,16706,1825,42594,2300,128,128,127,126
+"6_hourly","ET + all core drivers",163,128,2739,252,6814,533,126,126,120,111
+"daily","ET + all core drivers",163,126,689,72,1760.5,222,126,114,108,62
+"weekly","ET + all core drivers",163,114,97,0,241.5,39,112,80,34,4
+"monthly","ET + all core drivers",163,100,21,0,54,12,62,21,0,0
+"hourly","ET + all drivers including net radiation",163,126,15025,1135.5,40938.5,1614,126,126,125,123
+"6_hourly","ET + all drivers including net radiation",163,126,2422,115.5,6663.5,450,124,123,113,109
+"daily","ET + all drivers including net radiation",163,124,619,31,1698.5,165,123,112,105,61
+"weekly","ET + all drivers including net radiation",163,112,83,0,239,30,110,77,32,2
+"monthly","ET + all drivers including net radiation",163,98,19,0,54,9,61,18,0,0
+"hourly","ET + net radiation",163,160,28801,13589,60183,2524,160,160,160,160
+"6_hourly","ET + net radiation",163,160,4698,2163.5,9957.5,654,160,160,150,139
+"daily","ET + net radiation",163,160,1198,550.5,2511.5,249,160,147,131,97
+"weekly","ET + net radiation",163,145,171,75,358.5,55,139,111,45,4
+"monthly","ET + net radiation",163,120,36,0,83,19,99,36,0,0
+"hourly","ET + soil water potential",163,128,17027,1950.5,44600.5,2300,128,128,127,126
+"6_hourly","ET + soil water potential",163,128,2785,279,7239,538,126,126,122,111
+"daily","ET + soil water potential",163,126,706,77,1854,226,126,114,109,63
+"weekly","ET + soil water potential",163,114,99,0,255.5,44,112,81,35,4
+"monthly","ET + soil water potential",163,100,23,0,57.5,12,62,23,0,0
