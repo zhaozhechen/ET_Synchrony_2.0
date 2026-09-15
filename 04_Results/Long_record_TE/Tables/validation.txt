@@ -1,0 +1,6 @@
+PASS: exact MD5 equality of both reference snapshots.
+PASS: unchanged core reproduces reference wrapper metrics on complete-data fixture (11 bins, 300 shuffles, 49 lags).
+PASS: 12 analyses x 49 lags = 588 finite TE rows.
+PASS: both drivers use identical valid triplet counts and target timestamp spans at every lag.
+PASS: exactly one critical TE in bits per analysis.
+PASS: normalized TE exactly matches 100*TE/Hy.
